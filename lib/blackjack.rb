@@ -37,8 +37,8 @@ def hit?(sum)
     display_card_total(sum)
   # elsif user_answer == "s"
   #   display_card_total(sum)
-  else
-    invalid_command
+  # else
+  #   invalid_command
   end
   sum  
 end
